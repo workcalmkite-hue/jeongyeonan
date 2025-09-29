@@ -21,7 +21,7 @@ def init_state():
     ss.setdefault("first_date", None)
     ss.setdefault("quiz_records", [])  # 기록 저장
     ss.setdefault("name_to", "용차니")  # 남자친구 이름
-    ss.setdefault("name_from", "정연")  # 보낸 사람 기본값(원하면 변경)
+    ss.setdefault("name_from", "궁딩이")  # 보낸 사람 기본값(원하면 변경)
     ss.setdefault("vibe", "귀여움")
 init_state()
 
